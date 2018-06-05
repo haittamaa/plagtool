@@ -1,0 +1,22 @@
+{
+	"MSG_WRONG_LOGIN_OR_PASSWORD":"Wrong login or password",
+	"CURL_TIMEOUT":1200,
+	"MSG_WRONG_LOGIN_OR_PASSWORD":"Wrong login or password",
+    "MSG_URL_NOT_FOUND":"URL not found",
+    "MSG_HTTPS_HAVE_TO_BE_USED":"https have to be used",
+    "MSG_ADD_NGRAMS_ERROR":"Add ngrams error",
+    "MSG_ADD_TEXT_ERROR":"Add text error",
+    "MSG_TEXT_IS_EMPTY":"Text is empty",
+    "MSG_TEXT_NOT_FOUND":"Text not found",
+    "MSG_TEXT_IS_NOT_CHECKED_YET":"Text is not checked yet",
+    "MSG_LIMIT_OF_CHECKS_AT_THE_SAME_TIME_IS_EXCEEDED":"Limit of checks at the same time is exceeded",
+    "MSG_WRONG_SUBSCRIPTION_TYPE":"Wrong subscription type",
+    "MSG_LIMIT_OF_CHECKS_IS_EXCEEDED":"Limit of checks is exceeded",
+    "MSG_GETTING_DATA_FROM_URL_ERROR":"Getting data from url error",
+    "MSG_GETTING_DATA_FROM_FILE_ERROR":"Getting text from file error",
+    "MSG_WRONG_FILE_EXTENSION":"Sorry, you can only upload .doc, .csv, .html, .ods, .odt, .pdf, .ppt, .rtf, .txt, .xls, .docx, .xlsx files",
+    "MSG_FILE_IS_TOO_BIG":"Maximum size of uploading document is 10 MB.",
+    "COMPLETED_PERCENT":100,
+    "MAX_UPLOADED_FILE_SIZE":10485760,
+    "SAMPLE_TEXT":"The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company. The series is a satirical parody of a middle class American lifestyle epitomized by its family of the same name, which consists of Homer, Marge, Bart, Lisa and Maggie. The show is set in the fictional town of Springfield and parodies American culture, society and many aspects of the human condition. Since its debut on December 17, 1989, the show has broadcast 500 episodes and the twenty-third season started airing on September 25, 2011. The Simpsons is the longest-running American sitcom, the longest-running American animated program, and in 2009 it surpassed Gunsmoke as the longest-running American primetime, scripted television series. The Simpsons Movie, a feature-length film, was released in theaters worldwide on July 26 and July 27, 2007, and grossed over $527 million."
+}
